@@ -43,14 +43,14 @@ This project is distributed under the MIT LICENSE. Please refer to the LICENSE f
 
 If you use this repository in your research, please cite it as follows:
 
-Cristo-Martínez, S. Y., Fernández-Sánchez, X., & Miranda-Miranda, A. J. (2025). **NeuroNet_AD: Unraveling Alzheimer's Disease Through Information-Theoretic Network Analysis of Single-Nucleus RNA Sequencing Data** (Version 1.0). GitHub. [https://github.com/silvanaycristo/NeuroNet_AD](https://github.com/silvanaycristo/NeuroNet_AD)
+Cristo-Martínez, S. Y., Fernández-Sánchez, X., Miranda-Miranda, A. J & De Anda-Jáuregui Guillermo. (2025). **NeuroNet_AD: Unraveling Alzheimer's Disease Through Information-Theoretic Network Analysis of Single-Nucleus RNA Sequencing Data** (Version 1.0). GitHub. [https://github.com/silvanaycristo/NeuroNet_AD](https://github.com/silvanaycristo/NeuroNet_AD)
 
 Once the project is published or presented, update this section with the appropriate citation format.
 
 
 ### Contact
 
-For issues, questions, or collaborations, please open an issue in this repository or contact us at: Silvana Yalú Cristo-Martínez (silvanac@lcg.unam.mx), Ximena Fernández-Sánchez (xfdzciencias@gmail.com) & Astrid Jaqueline Miranda-Miranda (asrusher3@gmail.com). 
+For issues, questions, or collaborations, please open an issue in this repository or contact us at: Silvana Yalú Cristo-Martínez (silvanac@lcg.unam.mx), Ximena Fernández-Sánchez (xfdzciencias@gmail.com), Astrid Jaqueline Miranda-Miranda (asrusher3@gmail.com), & Guillermo De Anda-Jáuregui (gdeanda@inmegen.edu.mx)
 
 
 
