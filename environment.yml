@@ -1,0 +1,19 @@
+name: neuronet-ad
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3.10
+  - scanpy
+  - anndata
+  - h5py
+  - pandas
+  - numpy
+  - joblib
+  - matplotlib
+  - seaborn
+  - networkx
+  - jupyterlab
+  - r-base
+  - r-matrix
+  - r-remotes

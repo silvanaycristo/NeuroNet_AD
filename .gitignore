@@ -1,0 +1,52 @@
+# Datos primarios y matrices (se conservan en Chaac, no en GitHub)
+*.h5ad
+*.h5
+*.loom
+*.zarr/
+*.mtx
+*.tar.gz
+*.zip
+*.gz
+
+# Directorios con datos o resultados generados
+data/*
+!data/README.md
+input/*
+!input/README.md
+output/*
+!output/README.md
+aracne_vip/*
+!aracne_vip/README.md
+app/*
+!app/README.md
+logs/*
+!logs/README.md
+rafa_logs/
+
+# Herramientas externas y repositorios clonados
+ARACNe-AP/
+
+# Entornos y artefactos de Python/R
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+conda-env/
+.Rhistory
+.RData
+.Rproj.user/
+
+# Logs, temporales y sistema
+*.log
+nohup.out
+.DS_Store
+.vscode/
+*.swp
+*~
+
+# Historial anterior conservado fuera del repositorio
+.git.legacy*/
+*.legacy-*/
