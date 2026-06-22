@@ -149,9 +149,9 @@ improvement.
 
 - **Silvana Yalú Cristo-Martínez** — [silvanac@lcg.unam.mx](mailto:silvanac@lcg.unam.mx)
 - **Ximena Fernández-Sánchez** — [xfdzciencias@gmail.com](mailto:xfdzciencias@gmail.com)
-- **Rafael Díaz Martínez** — [rafadiaz@lcg.unam.mx](mailto:rafadiaz@lcg.unam.mx)
-- **Daniel Isidoro Chagüen Hernandez** — [danielchagueno@gmail.com](mailto:danielchagueno@gmail.com)
-- **Allan Ken Miyazono Ushijima** — [allan.miyazono@gmail.com](mailto:allan.miyazono@gmail.com)
+- **Rafael Díaz-Martínez** — [rafadiaz@lcg.unam.mx](mailto:rafadiaz@lcg.unam.mx)
+- **Daniel Isidoro Chagüen-Hernandez** — [danielchagueno@gmail.com](mailto:danielchagueno@gmail.com)
+- **Allan Ken Miyazono-Ushijima** — [allan.miyazono@gmail.com](mailto:allan.miyazono@gmail.com)
 - **Guillermo De Anda-Jáuregui** — [gdeanda@inmegen.edu.mx](mailto:gdeanda@inmegen.edu.mx)
 
 For questions, bug reports, or proposed collaborations, please
